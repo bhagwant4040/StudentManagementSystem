@@ -1,2 +1,5 @@
-This is my 12th class project.
-A student management system with Python and MySql.
+● Create, modify, and delete student records 
+● Display class results 
+● Search for specific student records 
+● Store data in a file 
+● Simple text-based interface
